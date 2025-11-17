@@ -6,7 +6,8 @@
 
 ## 2. Putty functioning
 
-<img width="619" height="528" alt="image" src="https://github.com/user-attachments/assets/ee425a98-1525-4692-8e4e-c273b25f86e4" 
+<img width="619" height="528" alt="image" src="https://github.com/user-attachments/assets/ee425a98-1525-4692-8e4e-c273b25f86e4"/>
+ 
 
 ## 3. Installing Docker
 
